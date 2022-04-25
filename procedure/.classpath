@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/antlr-2.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/asm.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/barbecue-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/cglib-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/cincom-jr-xmla.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/commons-beanutils-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/commons-collections-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/commons-dbcp-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/commons-digester-1.7.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/commons-javaflow-20060411.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/commons-logging-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/commons-logging-api-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/commons-math-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/commons-pool-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/commons-vfs-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/dom4j-1.6.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/ehcache-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/eigenbase-properties.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/eigenbase-resgen.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/eigenbase-xom.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/flexdock-0.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/groovy-all-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/hsqldb-1.7.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/iReport.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/itext-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/jakarta-bcel-20050813.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/JasperBabylon-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/jasperreports-2.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/jasperreports-extensions-1.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/javacup.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/jcmdline-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/jcommon-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/jdt-compiler-3.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/jfreechart-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/jpa.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/jsmoothgen-ant-0.9.7.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/jta.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/jxl-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/log4j-1.2.9.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/looks-2.0-rc.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/microba-0.4.1-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/mondrian-2.3.2.8944.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/mysql-connector-java-3.1.11-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/nsisant-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/png-encoder-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/poi-3.0.1-FINAL-20070705.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/rex-20070125.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/saaj-api-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/servlet.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/spring-2.0-m2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/spring-context-2.0-m2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/spring-hibernate3-2.0-m2.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/sqleonardo-2007.03.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/swingx-2007_05_13.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/tinylaf.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/toniclf.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/xalan.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/xercesImpl.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/Jars/xml-apis.jar"/>
+	<classpathentry kind="lib" path="C:/Documents and Settings/Aluno/Desktop/Projeto Java/mysql-connector-java-5.1.18-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

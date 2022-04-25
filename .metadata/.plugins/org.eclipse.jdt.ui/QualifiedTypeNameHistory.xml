@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.hibernate.mapping.Component"/>
+<fullyQualifiedTypeName name="com.mysql.jdbc.ResultSet"/>
+<fullyQualifiedTypeName name="java.beans.Statement"/>
+<fullyQualifiedTypeName name="javax.swing.event.DocumentEvent"/>
+<fullyQualifiedTypeName name="net.sf.jasperreports.view.JasperViewer"/>
+</qualifiedTypeNameHistroy>
